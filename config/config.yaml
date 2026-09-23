@@ -1,6 +1,6 @@
 database:
   host: localhost
-  port: 5432
+  port: 5433
   name: olist_db
   user: olist_user
   password: ""
