@@ -66,6 +66,11 @@ against schemas, loads it into a relational database, and makes it ready for SQL
 ```
 
 ---
+## Architecture
+
+![Architecture Diagram](docs/architecture.png)
+
+---
 
 ## Tech Stack
 
@@ -260,6 +265,7 @@ GitHub Actions runs the test suite on every push.
 - **SQL analytics** — real business queries, not just toy examples
 
 ---
+
 
 ## License
 
