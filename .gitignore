@@ -1,0 +1,34 @@
+# Środowisko Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sekrety
+.env
+
+# Dane
+data/raw/*.csv
+data/processed/
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+.vs/
+end-to-end/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Testy
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Visual Studio
+*.vsidx
+*.slnx
