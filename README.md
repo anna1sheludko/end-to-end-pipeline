@@ -234,6 +234,27 @@ ORDER BY month;
 ```
 
 ---
+## Example Results
+
+### Tables loaded
+
+![Tables overview](docs/screenshots/01_tables_overview.png)
+
+### Monthly revenue
+
+![Monthly revenue](docs/screenshots/02_monthly_revenue.png)
+
+### Top product categories
+
+![Top product categories](docs/screenshots/03_top_categories.png)
+
+### Pipeline performance
+
+- **9 tables** loaded
+- **1,551,822 rows** total
+- **~40 seconds** end-to-end
+- **8x faster** load with `COPY` vs `to_sql`
+---
 
 ## Testing
 
