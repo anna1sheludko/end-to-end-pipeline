@@ -286,7 +286,13 @@ GitHub Actions runs the test suite on every push.
 - **SQL analytics** — real business queries, not just toy examples
 
 ---
+---
 
+## 📄 Case Study
+
+Read the full business case study: [CASE_STUDY.md](CASE_STUDY.md)
+
+---
 
 ## License
 
